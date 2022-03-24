@@ -2,13 +2,14 @@
   "files": {
     "main.css": "/static/css/main.css",
     "main.js": "/static/js/main.js",
-    "main.js.map": "/static/js/main.js.map",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/filter.svg": "/static/media/filter.f8014c69976780ae034a22483b907d65.svg",
     "index.html": "/index.html",
-    "precache-manifest.f223312b7a14a96087cfb5d34b1ab740.js": "/precache-manifest.f223312b7a14a96087cfb5d34b1ab740.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.css.map": "/static/css/main.css.map",
-    "static/js/main.js.LICENSE.txt": "/static/js/main.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css.map": "/static/css/main.css.map",
+    "main.js.map": "/static/js/main.js.map"
   },
   "entrypoints": [
     "static/css/main.css",
